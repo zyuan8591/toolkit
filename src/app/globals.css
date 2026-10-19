@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+body {
+  background: #ffffff;
+  color: #0f172a;
+  font-family: Arial, "PingFang TC", "Microsoft JhengHei", sans-serif;
+}
+
+button {
+  cursor: pointer;
+}
